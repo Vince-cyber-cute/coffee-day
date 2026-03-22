@@ -14,15 +14,13 @@ const noMessages = [
     "Are you sure? 🤔",
     "Budang please. 🥺",
     "If you say no, I will be really sad.",
-    "I will be very sad. 😢",
-    "Please Camille ??? 💔",
     "Last chance! 😭",
     "You can't catch me anyway 😜"
 ]
 
 const yesTeasePokes = [
-    "Try saying no first. I bet you want to know what happens 😏",
-    "Go on, hit no... just once 👀",
+    "Try saying no first Madam. I bet you want to know what happens 😏",
+    "Go on, hit no, just once 👀",
     "You're missing out 😈",
     "Click no, I dare you 😏"
 ]
