@@ -13,7 +13,7 @@ const noMessages = [
     "No",
     "Are you sure? 🤔",
     "Budang please. 🥺",
-    "If you say no, I will be really sad. HAHAHAHA OA",
+    "If you say no, I will be really sad. HAHAHAHA OA 😭",
     "Last chance! 😭",
     "You can't catch me anyway 😜"
 ]
